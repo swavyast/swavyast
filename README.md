@@ -1,6 +1,6 @@
-# <div align=center> _______________________ รωคvץคร† _______________________ </div> 
+# <div align=center>รωคvץคร†</div> 
 ## <div align=center>![Alt text][id]</div>
-### __________________________________________________ [My GitHub Profile](https://github.com/swavyast) __________________________________________________
+### <div align = center>[My GitHub Profile](https://github.com/swavyast)</div>
 
 - 🔭 I’m currently working on [MiscApps](https://github.com/swavyast/MiscApps)
 - 🌱 I’m currently learning <b>springboot & react</b>
