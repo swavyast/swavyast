@@ -2,8 +2,8 @@
 ###### <div align=center>![Alt text][id]</div>
 ### <div align = center>[My GitHub Profile](https://github.com/swavyast)</div>
 
-- 🔭 I’m currently working on [MiscApps](https://github.com/swavyast/MiscApps)
-- 🌱 I’m currently learning <b>springboot & react</b>
+- 🔭 I’m currently working on [MiscApps]([https://github.com/swavyast/MiscApps](https://github.com/swavyast/Front-End-Projects))
+- 🌱 I’m currently learning <b>Springboot & React</b>
 - 😄 Pronouns: He/Him
 - <div align=justify> ⚡ Fun fact: Contrary to popular belief, the brain doesn't truly multitask. Instead,
   &nbsp;it rapidly switches between tasks, and this constant switching
