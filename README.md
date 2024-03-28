@@ -2,7 +2,7 @@
 ###### <div align=center>![Alt text][id]</div>
 ### <div align = center>[My GitHub Profile](https://github.com/swavyast)</div>
 
-- 🔭 I’m currently working on [EMS : Employee Management System](https://github.com/swavyast/ems)
+- 🔭 I’m currently working on [git-manager](https://github.com/swavyast/git-react)
 - 🌱 I’m currently learning <b>Springboot & React</b>
 - 😄 Pronouns: He/Him
 - <div align=justify> ⚡ Fun fact: Contrary to popular belief, the brain doesn't truly multitask. Instead,
